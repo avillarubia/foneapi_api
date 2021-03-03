@@ -1,0 +1,20 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^3.0.8",
+    "express": "^4.17.1",
+    "joigoose": "^8.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.18",
+    "socket.io": "^3.1.2"
+  }
+}
